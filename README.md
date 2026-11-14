@@ -2,7 +2,7 @@
 
 Um jogo de plataforma 2D em HTML5 Canvas, no estilo "troll game" de *Cat Mario* (Syobon Action): tudo parece normal, mas quase tudo é uma armadilha. Sem dependências, sem build: é só abrir e jogar.
 
-> Projeto de fã, sem vínculo com Nintendo ou com o autor de Syobon Action. Todos os gráficos são desenhados em código.
+> Projeto de fã, sem vínculo com Nintendo ou com o autor de Syobon Action. Todos os gráficos são desenhados em código HTML.
 
 ## Jogar
 
